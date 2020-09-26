@@ -1,0 +1,222 @@
+_ms:
+  - mi
+  - sina
+_a:
+  - ike
+  - pona
+  - suli
+  - lili
+  - tawa
+_n:
+  - akesi
+  - ala
+  - ale
+  - ali
+  - ante
+  - ijo
+  - ike
+  - ilo
+  - insa
+  - jaki
+  - jan
+  - jo
+  - kala
+  - kalama
+  - kama
+  - kasi
+  - ken
+  - kili
+  - kiwen
+  - kule
+  - kute
+  - kulupu
+  - lawa
+  - len
+  - lete
+  - lili
+  - linja
+  - lipu
+  - luka
+  - lupa
+  - ma
+  - mama
+  - mani
+  - meli
+  - mije
+  - moku
+  - moli
+  - monsi
+  - mun
+  - musi
+  - mute
+  - nanpa
+  - nasin
+  - nena
+  - ni
+  - nimi
+  - noka
+  - oko
+  - olin
+  - ona
+  - pakala
+  - pali
+  - palisa
+  - pana
+  - pilin
+  - pimeja
+  - pini
+  - pipi
+  - poki
+  - poka
+  - pona
+  - seli
+  - selo
+  - seme
+  - sewi
+  - sijelo
+  - sike
+  - sinpin
+  - sitelen
+  - sona
+  - soweli
+  - suli
+  - suno
+  - supa
+  - suwi
+  - tan
+  - tawa
+  - telo
+  - tenpo
+  - toki
+  - tomo
+  - tu
+  - unpa
+  - uta
+  - utala
+  - walo
+  - wan
+  - waso
+  - wawa
+  - weka
+  - wile
+_v:
+  - anpa
+  - ante
+  - awen
+  - ijo
+  - ike
+  - jaki
+  - jan
+  - jo
+  - kan
+  - kalama
+  - kama
+  - ken
+  - kepeken
+  - kule
+  - lape
+  - lawa
+  - lete
+  - lili
+  - lon
+  - lukin
+  - moku
+  - moli
+  - musi
+  - mute
+  - nasa
+  - olin
+  - open
+  - pakala
+  - pali
+  - pana
+  - pilin
+  - pimeja
+  - pini
+  - poka
+  - pona
+  - seli
+  - sin
+  - sitelen
+  - sona
+  - suli
+  - suwi
+  - tawa
+  - telo
+  - toki
+  - tomo
+  - tu
+  - unpa
+  - utala
+  - wan
+  - wawa
+  - weka
+  - wile
+_p:
+  - kepeken
+  - lon
+  - poka
+  - sama
+  - tan
+  - tawa
+S:
+  _ms:
+    - C
+    - V
+  _n:
+    - Ns
+    - L
+L:
+  li:
+    - C
+C:
+  _a:
+    - null
+    - A
+    - P
+  _n:
+    - X
+  _v:
+    - null
+    - E
+    - V
+    - Vala
+Ns:
+  _ms:
+    - Ns
+    - As
+    - L
+  _n:
+    - Ns
+    - As
+    - L
+As:
+  _a:
+    - As
+N:
+  _n:
+    - null
+    - N
+P:
+  _p:
+    - N
+X:
+  <proper>:
+    - null
+A:
+  _a:
+    - null
+  ala:
+    - null
+V:
+  _v:
+    - null
+    - P
+Vala:
+  ala:
+    - null
+    - E
+    - P
+E:
+  e:
+    - N
